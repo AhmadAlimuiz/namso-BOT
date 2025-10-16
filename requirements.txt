@@ -1,3 +1,5 @@
-requests
+aiohttp
+aiohttp_socks
 colorama
-console
+pytz
+fake-useragent
